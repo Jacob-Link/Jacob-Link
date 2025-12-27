@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Jacob-Link
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Science and Surfing 😄
-- :thought_balloon: I’m looking to collaborate on Big Data projects which are looking to impact the world. 
+- 👀 I’m interested in AI, Data Science, Machine Learning, Deep Learning and Surfing 😄
 - 📫 How to reach me https://www.linkedin.com/in/jacob-link/
-
